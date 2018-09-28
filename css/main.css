@@ -172,3 +172,7 @@ footer {
 }
 
 
+.circlechart {
+    float: left;
+   padding: 20px;
+}
